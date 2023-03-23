@@ -15,4 +15,5 @@
 <a href="https://auth.geeksforgeeks.org/user/hounsaviju9xtx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="HOUNSAVIJules" height="30" width="40" /></a>
 
 
-- 🔭 I’m currently working on **Data Sciene projects**.
+- 🔭 I’m currently working on my **Data Sciene projects**.
+
