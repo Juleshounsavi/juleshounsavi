@@ -1,7 +1,7 @@
 ### Hi there👋, I am HOUNSAVI Jules Koffi.
 
 
-- 🌱 I’m currently learning **Data scienece** on **DataCamp**.
+- 🌱 I’m a **Data scienece** enthusiast and currently learning  Data science with Python on **DataCamp**.
 - 👯 I’m looking to collaborate on **data science projects**.
 - 💬 Ask me about **python** libraries for **Data science**.
 
